@@ -5,15 +5,23 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Diogo Vieira Teodoro Ferreira
+- Matrícula: 1645894
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+<<- LISTAGEM DE TÍTULOS ->>
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+![alt text](image-1.png)
 
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+<<- CÁLCULO DE MÉDIAS ->>
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![alt text](image-2.png)
+
+<<- RESUMO DE VERIFICAÇÕES (SOME E EVERY) ->>
+
+![alt text](image-3.png)
+
+<< - PÁGINA COM O RESUMO ->>
+
+![alt text](image.png)
